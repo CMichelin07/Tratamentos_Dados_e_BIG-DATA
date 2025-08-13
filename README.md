@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como parte do curso de **Analista de Dados** da EBAC, focado em **tratamento, limpeza e análise de grandes volumes de dados** utilizando **Python** e **PySpark**.
 
-## 📌 Objetivo
+## Objetivo
 O projeto foi dividido em duas partes principais:
 
 1. **Tratamento e Limpeza de Dados Diversos**  
@@ -34,7 +34,7 @@ O projeto foi dividido em duas partes principais:
 └── README.md                       # Documento de descrição do projeto
 ```
 
-## 🚀 Como Executar
+##  Como Executar
 1. **Clonar o repositório**  
    ```bash
    git clone https://github.com/CMichelin07/Tratamentos_Dados_e_BIG-DATA.git
@@ -57,11 +57,11 @@ O projeto foi dividido em duas partes principais:
      jupyter notebook
      ```
 
-## 📊 Resultados
+## Resultados
 - Conjuntos de dados limpos e prontos para análise.
 - Padronização de colunas e tipos de dados.
 - Tratamento de valores ausentes e inconsistências.
 - Dados do YouTube processados para insights futuros.
 
-## 📄 Licença
+## Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e adaptá-lo.
